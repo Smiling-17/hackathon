@@ -1,0 +1,13 @@
+# File .env.local - Chỉ cần GROQ_API_KEY
+# 
+# Groq chỉ cần API Key, KHÔNG có secret_key riêng
+# API Key bạn vừa tạo trên console.groq.com chính là key duy nhất cần thiết
+
+GROQ_API_KEY=gsk_paste_key_cua_ban_vao_day
+
+# Lưu ý:
+# - Thay gsk_paste_key_cua_ban_vao_day bằng key thật
+# - Không có khoảng trắng thừa
+# - Không cần dấu ngoặc kép
+# - File này đã được gitignore, không commit lên GitHub
+
